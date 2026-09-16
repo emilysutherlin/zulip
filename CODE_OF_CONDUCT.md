@@ -88,8 +88,9 @@ instruct us otherwise.
 ::: note
 
 If you are looking for information about using AI for coding in Zulip, see
-our **[AI use policy and guidelines](#ai-use-policy-and-guidelines) for code
-contributors**. 
+our **[AI use policy and guidelines](https://zulip.readthedocs.io/en/stable
+/contributing/contributing.html#ai-use-policy-and-guidelines) for code
+contributors**.
 
 :::
 
