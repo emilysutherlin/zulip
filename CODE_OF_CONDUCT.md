@@ -88,8 +88,7 @@ instruct us otherwise.
 ::: note
 
 If you are looking for information about using AI for coding in Zulip, see
-our **[AI use policy and guidelines](https://zulip.readthedocs.io/en/stable
-/contributing/contributing.html#ai-use-policy-and-guidelines) for code
+our **[AI use policy and guidelines](https://zulip.readthedocs.io/en/stable/contributing/contributing.html#ai-use-policy-and-guidelines) for code
 contributors**.
 
 :::
@@ -98,17 +97,17 @@ We want to maintain a space of authentic dialogue between humans. To that
 end:
 
 - **Do not post AI-generated messages as your own**. We want to read your own
-genuine expression of your thoughts. It’s fine to use whatever tools you
-like for help with spelling, grammar, or translation.
+  genuine expression of your thoughts. It’s fine to use whatever tools you
+  like for help with spelling, grammar, or translation.
 
 - **Clarity and succinctness** are much more important than perfect grammar.
-If you ask an LLM to clean up your writing, be sure it does not make it
-longer in the process. A concise message is much more likely to be read and
-replied to!
+  If you ask an LLM to clean up your writing, be sure it does not make it
+  longer in the process. A concise message is much more likely to be read and
+  replied to!
 
 - If you do have something from an LLM that you want to share with the Zulip
-community, use a [Zulip quote block](https://zulip.com/help/format-a-quote)
-to **distinguish LLM output from your own thoughts**.
+  community, use a [Zulip quote block](https://zulip.com/help/format-a-quote)
+  to **distinguish LLM output from your own thoughts**.
 
 ## Scope
 
